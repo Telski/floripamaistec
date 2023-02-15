@@ -1,0 +1,15 @@
+C:\Users\cesar\Documents\SENAI\Curso Senai\floripamaistec\Modelo I\Semana I\Exercicio 3\ExercicioparImpar\ExercicioparImpar\bin\Debug\net7.0\ExercicioparImpar.exe
+C:\Users\cesar\Documents\SENAI\Curso Senai\floripamaistec\Modelo I\Semana I\Exercicio 3\ExercicioparImpar\ExercicioparImpar\bin\Debug\net7.0\ExercicioparImpar.deps.json
+C:\Users\cesar\Documents\SENAI\Curso Senai\floripamaistec\Modelo I\Semana I\Exercicio 3\ExercicioparImpar\ExercicioparImpar\bin\Debug\net7.0\ExercicioparImpar.runtimeconfig.json
+C:\Users\cesar\Documents\SENAI\Curso Senai\floripamaistec\Modelo I\Semana I\Exercicio 3\ExercicioparImpar\ExercicioparImpar\bin\Debug\net7.0\ExercicioparImpar.dll
+C:\Users\cesar\Documents\SENAI\Curso Senai\floripamaistec\Modelo I\Semana I\Exercicio 3\ExercicioparImpar\ExercicioparImpar\bin\Debug\net7.0\ExercicioparImpar.pdb
+C:\Users\cesar\Documents\SENAI\Curso Senai\floripamaistec\Modelo I\Semana I\Exercicio 3\ExercicioparImpar\ExercicioparImpar\obj\Debug\net7.0\ExercicioparImpar.csproj.AssemblyReference.cache
+C:\Users\cesar\Documents\SENAI\Curso Senai\floripamaistec\Modelo I\Semana I\Exercicio 3\ExercicioparImpar\ExercicioparImpar\obj\Debug\net7.0\ExercicioparImpar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cesar\Documents\SENAI\Curso Senai\floripamaistec\Modelo I\Semana I\Exercicio 3\ExercicioparImpar\ExercicioparImpar\obj\Debug\net7.0\ExercicioparImpar.AssemblyInfoInputs.cache
+C:\Users\cesar\Documents\SENAI\Curso Senai\floripamaistec\Modelo I\Semana I\Exercicio 3\ExercicioparImpar\ExercicioparImpar\obj\Debug\net7.0\ExercicioparImpar.AssemblyInfo.cs
+C:\Users\cesar\Documents\SENAI\Curso Senai\floripamaistec\Modelo I\Semana I\Exercicio 3\ExercicioparImpar\ExercicioparImpar\obj\Debug\net7.0\ExercicioparImpar.csproj.CoreCompileInputs.cache
+C:\Users\cesar\Documents\SENAI\Curso Senai\floripamaistec\Modelo I\Semana I\Exercicio 3\ExercicioparImpar\ExercicioparImpar\obj\Debug\net7.0\ExercicioparImpar.dll
+C:\Users\cesar\Documents\SENAI\Curso Senai\floripamaistec\Modelo I\Semana I\Exercicio 3\ExercicioparImpar\ExercicioparImpar\obj\Debug\net7.0\refint\ExercicioparImpar.dll
+C:\Users\cesar\Documents\SENAI\Curso Senai\floripamaistec\Modelo I\Semana I\Exercicio 3\ExercicioparImpar\ExercicioparImpar\obj\Debug\net7.0\ExercicioparImpar.pdb
+C:\Users\cesar\Documents\SENAI\Curso Senai\floripamaistec\Modelo I\Semana I\Exercicio 3\ExercicioparImpar\ExercicioparImpar\obj\Debug\net7.0\ExercicioparImpar.genruntimeconfig.cache
+C:\Users\cesar\Documents\SENAI\Curso Senai\floripamaistec\Modelo I\Semana I\Exercicio 3\ExercicioparImpar\ExercicioparImpar\obj\Debug\net7.0\ref\ExercicioparImpar.dll
