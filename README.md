@@ -1,2 +1,2 @@
 # floripamaistec
-Repositório com todos os códigos, exercícios do curso Floripa Mais Tech - Full Stack.
+Repositório com todos os códigos, exercícios do curso Floripa Mais Tech - Full Stack, desenvolvidos durante o curso.
