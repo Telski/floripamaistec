@@ -1,0 +1,5 @@
+C:\Users\cesar\Documents\SENAI\Curso Senai\floripamaistec\floripamaistec\Modulo I\Semana II\Exercicio_3ao6\ContaBancaria\ContaBancaria\obj\Debug\net7.0\ContaBancaria.csproj.AssemblyReference.cache
+C:\Users\cesar\Documents\SENAI\Curso Senai\floripamaistec\floripamaistec\Modulo I\Semana II\Exercicio_3ao6\ContaBancaria\ContaBancaria\obj\Debug\net7.0\ContaBancaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cesar\Documents\SENAI\Curso Senai\floripamaistec\floripamaistec\Modulo I\Semana II\Exercicio_3ao6\ContaBancaria\ContaBancaria\obj\Debug\net7.0\ContaBancaria.AssemblyInfoInputs.cache
+C:\Users\cesar\Documents\SENAI\Curso Senai\floripamaistec\floripamaistec\Modulo I\Semana II\Exercicio_3ao6\ContaBancaria\ContaBancaria\obj\Debug\net7.0\ContaBancaria.AssemblyInfo.cs
+C:\Users\cesar\Documents\SENAI\Curso Senai\floripamaistec\floripamaistec\Modulo I\Semana II\Exercicio_3ao6\ContaBancaria\ContaBancaria\obj\Debug\net7.0\ContaBancaria.csproj.CoreCompileInputs.cache

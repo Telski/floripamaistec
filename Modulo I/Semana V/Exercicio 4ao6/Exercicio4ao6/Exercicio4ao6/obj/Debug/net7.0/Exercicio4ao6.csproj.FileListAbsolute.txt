@@ -1,0 +1,15 @@
+C:\Users\cesar\Documents\SENAI\Curso Senai\floripamaistec\floripamaistec\Modulo I\Semana V\Exercicio 4ao6\Exercicio4ao6\Exercicio4ao6\obj\Debug\net7.0\Exercicio4ao6.csproj.AssemblyReference.cache
+C:\Users\cesar\Documents\SENAI\Curso Senai\floripamaistec\floripamaistec\Modulo I\Semana V\Exercicio 4ao6\Exercicio4ao6\Exercicio4ao6\obj\Debug\net7.0\Exercicio4ao6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cesar\Documents\SENAI\Curso Senai\floripamaistec\floripamaistec\Modulo I\Semana V\Exercicio 4ao6\Exercicio4ao6\Exercicio4ao6\obj\Debug\net7.0\Exercicio4ao6.AssemblyInfoInputs.cache
+C:\Users\cesar\Documents\SENAI\Curso Senai\floripamaistec\floripamaistec\Modulo I\Semana V\Exercicio 4ao6\Exercicio4ao6\Exercicio4ao6\obj\Debug\net7.0\Exercicio4ao6.AssemblyInfo.cs
+C:\Users\cesar\Documents\SENAI\Curso Senai\floripamaistec\floripamaistec\Modulo I\Semana V\Exercicio 4ao6\Exercicio4ao6\Exercicio4ao6\obj\Debug\net7.0\Exercicio4ao6.csproj.CoreCompileInputs.cache
+C:\Users\cesar\Documents\SENAI\Curso Senai\floripamaistec\floripamaistec\Modulo I\Semana V\Exercicio 4ao6\Exercicio4ao6\Exercicio4ao6\bin\Debug\net7.0\Exercicio4ao6.exe
+C:\Users\cesar\Documents\SENAI\Curso Senai\floripamaistec\floripamaistec\Modulo I\Semana V\Exercicio 4ao6\Exercicio4ao6\Exercicio4ao6\bin\Debug\net7.0\Exercicio4ao6.deps.json
+C:\Users\cesar\Documents\SENAI\Curso Senai\floripamaistec\floripamaistec\Modulo I\Semana V\Exercicio 4ao6\Exercicio4ao6\Exercicio4ao6\bin\Debug\net7.0\Exercicio4ao6.runtimeconfig.json
+C:\Users\cesar\Documents\SENAI\Curso Senai\floripamaistec\floripamaistec\Modulo I\Semana V\Exercicio 4ao6\Exercicio4ao6\Exercicio4ao6\bin\Debug\net7.0\Exercicio4ao6.dll
+C:\Users\cesar\Documents\SENAI\Curso Senai\floripamaistec\floripamaistec\Modulo I\Semana V\Exercicio 4ao6\Exercicio4ao6\Exercicio4ao6\bin\Debug\net7.0\Exercicio4ao6.pdb
+C:\Users\cesar\Documents\SENAI\Curso Senai\floripamaistec\floripamaistec\Modulo I\Semana V\Exercicio 4ao6\Exercicio4ao6\Exercicio4ao6\obj\Debug\net7.0\Exercicio4ao6.dll
+C:\Users\cesar\Documents\SENAI\Curso Senai\floripamaistec\floripamaistec\Modulo I\Semana V\Exercicio 4ao6\Exercicio4ao6\Exercicio4ao6\obj\Debug\net7.0\refint\Exercicio4ao6.dll
+C:\Users\cesar\Documents\SENAI\Curso Senai\floripamaistec\floripamaistec\Modulo I\Semana V\Exercicio 4ao6\Exercicio4ao6\Exercicio4ao6\obj\Debug\net7.0\Exercicio4ao6.pdb
+C:\Users\cesar\Documents\SENAI\Curso Senai\floripamaistec\floripamaistec\Modulo I\Semana V\Exercicio 4ao6\Exercicio4ao6\Exercicio4ao6\obj\Debug\net7.0\Exercicio4ao6.genruntimeconfig.cache
+C:\Users\cesar\Documents\SENAI\Curso Senai\floripamaistec\floripamaistec\Modulo I\Semana V\Exercicio 4ao6\Exercicio4ao6\Exercicio4ao6\obj\Debug\net7.0\ref\Exercicio4ao6.dll

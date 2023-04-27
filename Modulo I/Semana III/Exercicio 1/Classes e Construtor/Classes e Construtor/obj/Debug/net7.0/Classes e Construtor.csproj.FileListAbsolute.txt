@@ -1,0 +1,15 @@
+C:\Users\cesar\Documents\SENAI\Curso Senai\floripamaistec\floripamaistec\Modulo I\Semana III\Exercicio 1\Classes e Construtor\Classes e Construtor\bin\Debug\net7.0\Classes e Construtor.exe
+C:\Users\cesar\Documents\SENAI\Curso Senai\floripamaistec\floripamaistec\Modulo I\Semana III\Exercicio 1\Classes e Construtor\Classes e Construtor\bin\Debug\net7.0\Classes e Construtor.deps.json
+C:\Users\cesar\Documents\SENAI\Curso Senai\floripamaistec\floripamaistec\Modulo I\Semana III\Exercicio 1\Classes e Construtor\Classes e Construtor\bin\Debug\net7.0\Classes e Construtor.runtimeconfig.json
+C:\Users\cesar\Documents\SENAI\Curso Senai\floripamaistec\floripamaistec\Modulo I\Semana III\Exercicio 1\Classes e Construtor\Classes e Construtor\bin\Debug\net7.0\Classes e Construtor.dll
+C:\Users\cesar\Documents\SENAI\Curso Senai\floripamaistec\floripamaistec\Modulo I\Semana III\Exercicio 1\Classes e Construtor\Classes e Construtor\bin\Debug\net7.0\Classes e Construtor.pdb
+C:\Users\cesar\Documents\SENAI\Curso Senai\floripamaistec\floripamaistec\Modulo I\Semana III\Exercicio 1\Classes e Construtor\Classes e Construtor\obj\Debug\net7.0\Classes e Construtor.csproj.AssemblyReference.cache
+C:\Users\cesar\Documents\SENAI\Curso Senai\floripamaistec\floripamaistec\Modulo I\Semana III\Exercicio 1\Classes e Construtor\Classes e Construtor\obj\Debug\net7.0\Classes e Construtor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cesar\Documents\SENAI\Curso Senai\floripamaistec\floripamaistec\Modulo I\Semana III\Exercicio 1\Classes e Construtor\Classes e Construtor\obj\Debug\net7.0\Classes e Construtor.AssemblyInfoInputs.cache
+C:\Users\cesar\Documents\SENAI\Curso Senai\floripamaistec\floripamaistec\Modulo I\Semana III\Exercicio 1\Classes e Construtor\Classes e Construtor\obj\Debug\net7.0\Classes e Construtor.AssemblyInfo.cs
+C:\Users\cesar\Documents\SENAI\Curso Senai\floripamaistec\floripamaistec\Modulo I\Semana III\Exercicio 1\Classes e Construtor\Classes e Construtor\obj\Debug\net7.0\Classes e Construtor.csproj.CoreCompileInputs.cache
+C:\Users\cesar\Documents\SENAI\Curso Senai\floripamaistec\floripamaistec\Modulo I\Semana III\Exercicio 1\Classes e Construtor\Classes e Construtor\obj\Debug\net7.0\Classes e Construtor.dll
+C:\Users\cesar\Documents\SENAI\Curso Senai\floripamaistec\floripamaistec\Modulo I\Semana III\Exercicio 1\Classes e Construtor\Classes e Construtor\obj\Debug\net7.0\refint\Classes e Construtor.dll
+C:\Users\cesar\Documents\SENAI\Curso Senai\floripamaistec\floripamaistec\Modulo I\Semana III\Exercicio 1\Classes e Construtor\Classes e Construtor\obj\Debug\net7.0\Classes e Construtor.pdb
+C:\Users\cesar\Documents\SENAI\Curso Senai\floripamaistec\floripamaistec\Modulo I\Semana III\Exercicio 1\Classes e Construtor\Classes e Construtor\obj\Debug\net7.0\Classes e Construtor.genruntimeconfig.cache
+C:\Users\cesar\Documents\SENAI\Curso Senai\floripamaistec\floripamaistec\Modulo I\Semana III\Exercicio 1\Classes e Construtor\Classes e Construtor\obj\Debug\net7.0\ref\Classes e Construtor.dll

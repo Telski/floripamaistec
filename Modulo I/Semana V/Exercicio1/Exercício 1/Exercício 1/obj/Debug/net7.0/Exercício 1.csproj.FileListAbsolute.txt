@@ -1,0 +1,15 @@
+C:\Users\cesar\Documents\SENAI\Curso Senai\floripamaistec\floripamaistec\Modulo I\Semana V\Exercicio1\Exercício 1\Exercício 1\bin\Debug\net7.0\Exercício 1.exe
+C:\Users\cesar\Documents\SENAI\Curso Senai\floripamaistec\floripamaistec\Modulo I\Semana V\Exercicio1\Exercício 1\Exercício 1\bin\Debug\net7.0\Exercício 1.deps.json
+C:\Users\cesar\Documents\SENAI\Curso Senai\floripamaistec\floripamaistec\Modulo I\Semana V\Exercicio1\Exercício 1\Exercício 1\bin\Debug\net7.0\Exercício 1.runtimeconfig.json
+C:\Users\cesar\Documents\SENAI\Curso Senai\floripamaistec\floripamaistec\Modulo I\Semana V\Exercicio1\Exercício 1\Exercício 1\bin\Debug\net7.0\Exercício 1.dll
+C:\Users\cesar\Documents\SENAI\Curso Senai\floripamaistec\floripamaistec\Modulo I\Semana V\Exercicio1\Exercício 1\Exercício 1\bin\Debug\net7.0\Exercício 1.pdb
+C:\Users\cesar\Documents\SENAI\Curso Senai\floripamaistec\floripamaistec\Modulo I\Semana V\Exercicio1\Exercício 1\Exercício 1\obj\Debug\net7.0\Exercício 1.csproj.AssemblyReference.cache
+C:\Users\cesar\Documents\SENAI\Curso Senai\floripamaistec\floripamaistec\Modulo I\Semana V\Exercicio1\Exercício 1\Exercício 1\obj\Debug\net7.0\Exercício 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cesar\Documents\SENAI\Curso Senai\floripamaistec\floripamaistec\Modulo I\Semana V\Exercicio1\Exercício 1\Exercício 1\obj\Debug\net7.0\Exercício 1.AssemblyInfoInputs.cache
+C:\Users\cesar\Documents\SENAI\Curso Senai\floripamaistec\floripamaistec\Modulo I\Semana V\Exercicio1\Exercício 1\Exercício 1\obj\Debug\net7.0\Exercício 1.AssemblyInfo.cs
+C:\Users\cesar\Documents\SENAI\Curso Senai\floripamaistec\floripamaistec\Modulo I\Semana V\Exercicio1\Exercício 1\Exercício 1\obj\Debug\net7.0\Exercício 1.csproj.CoreCompileInputs.cache
+C:\Users\cesar\Documents\SENAI\Curso Senai\floripamaistec\floripamaistec\Modulo I\Semana V\Exercicio1\Exercício 1\Exercício 1\obj\Debug\net7.0\Exercício 1.dll
+C:\Users\cesar\Documents\SENAI\Curso Senai\floripamaistec\floripamaistec\Modulo I\Semana V\Exercicio1\Exercício 1\Exercício 1\obj\Debug\net7.0\refint\Exercício 1.dll
+C:\Users\cesar\Documents\SENAI\Curso Senai\floripamaistec\floripamaistec\Modulo I\Semana V\Exercicio1\Exercício 1\Exercício 1\obj\Debug\net7.0\Exercício 1.pdb
+C:\Users\cesar\Documents\SENAI\Curso Senai\floripamaistec\floripamaistec\Modulo I\Semana V\Exercicio1\Exercício 1\Exercício 1\obj\Debug\net7.0\Exercício 1.genruntimeconfig.cache
+C:\Users\cesar\Documents\SENAI\Curso Senai\floripamaistec\floripamaistec\Modulo I\Semana V\Exercicio1\Exercício 1\Exercício 1\obj\Debug\net7.0\ref\Exercício 1.dll

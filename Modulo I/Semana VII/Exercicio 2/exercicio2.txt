@@ -1,0 +1,31 @@
+Semana 07 - exercício 2
+
+create table aluno (
+
+id int identity (1,1) primary key,
+nome_aluno varchar(100) not null,
+endereco varchar (100),
+idade int,
+)
+
+create table disciplina (
+id int identity(1,1) primary key,
+nome_disc varchar(100) not null,
+carga_hor int,
+)
+
+create table professor (
+
+id int identity(1,1) primary key,
+nome_prof varchar(100) not null,
+graduacao varchar(100),
+
+insert into aluno (nome_aluno) values ('José Preira da Silva'), ('maria Joaquina dos Anjos'), ('Luiz Ricardo Soares'), ('Daniela Cristina de Souza');
+insert into aluno (endereco) values ('Av. Conde de boa vista, 100, Recife- PE'), ('Av.Norte, 250, Recife , PE'), (Av. Sul, 312, Recife, PE');
+insert into aluno (idade) values ('25'), ('23'), ('27');
+insert into disciplina (nome_disc) values ('metodologia Científica'), ('Introdução a programação'), ('Bando de Dados);
+insert into disciplina (carga_hor) values ('40'), ('80'), ('80');
+Insert into professor (nome_prof) values ('Ana Maria Tavares'), ('Fernando Soares Araújo'), ('Helena Maria Bezerra');
+Insert into professor (graduacão) values ('Licenciatura em Letras'), ('Engenharia da computação'), ('Sistemas de informação);
+
+--insert into aluno (nome_aluno, endereco, idade) values ('José Preira da Silva', 'Av. Conde de boa vista', 100, Recife- PE, 25);

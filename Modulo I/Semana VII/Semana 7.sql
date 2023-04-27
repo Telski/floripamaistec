@@ -1,0 +1,68 @@
+CREATE DATABASE semana_7;
+
+USE Semana7
+
+-- exe 1
+CREATE TABLE CLIENTES(Id INT, 
+								Nome VARCHAR (60),
+								Telefone VARCHAR (11),
+								Endereco VARCHAR (150))
+-- Exe 2
+INSERT INTO CLIENTES(Id,Nome,Telefone,Endereco) VALUES (1, 'Cesar Telski',789542, 'Rua da casa');
+INSERT INTO CLIENTES(Id,Nome,Telefone,Endereco) VALUES (2, 'Joao Olivera',265542, 'Rua do Gol');
+INSERT INTO CLIENTES(Id,Nome,Telefone,Endereco) VALUES (3, 'Fabio Godoy',155637, 'Rua Peralta');
+
+-- exe 3
+SELECT * FROM CLIENTES;
+
+-- Exe 4
+SELECT * FROM CLIENTES WHERE Id = 1;
+
+-- Exe 5 - S
+SELECT * FROM CLIENTES WHERE Nome LIKE '%V%';
+
+-- Exe 6 
+UPDATE CLIENTES SET Endereco = 'Rua do Mercado' WHERE Nome = 'Fabio Godoy';
+
+-- Exe 7
+DELETE CLIENTES WHERE Id = 2;
+
+-- Exe 8 
+CREATE TABLE CARGOS(Id INT PRIMARY KEY IDENTITY(1,1),
+					CARGO VARCHAR(50));
+
+INSERT INTO CARGOS(CARGO) VALUES ('Atendente'),
+								('Coordenador');
+
+SELECT * FROM CARGOS
+
+
+CREATE TABLE FUNCIONARIOS(Id INT PRIMARY KEY IDENTITY(1,1),
+					Nome VARCHAR(50),
+					Id_Cargos INT REFERENCES CARGOS(Id));
+
+INSERT INTO FUNCIONARIOS(Nome, Id_Cargos) VALUES ('Fabio',1),('Joao',2),('Robert',1);
+
+SELECT * FROM FUNCIONARIOS;
+
+SELECT*FROM FUNCIONARIOS
+JOIN CARGOS ON CARGOS.Id=FUNCIONARIOS.Id_Cargos;
+
+
+CREATE TABLE TELEFONES(Id_Funcionarios INT REFERENCES FUNCIONARIOS(Id),
+					Telefone VARCHAR(11));
+
+
+
+INSERT INTO TELEFONES (Id_Funcionarios, Telefone) VALUES (1,'3654452'),
+														(1,'3654453'),
+														(2,'3654454'),
+														(2,'3654455'),
+														(3,'3654456'),
+														(3,'3654457');
+
+SELECT * FROM TELEFONES;
+
+SELECT*FROM FUNCIONARIOS
+JOIN CARGOS ON CARGOS.Id=FUNCIONARIOS.Id_Cargos
+JOIN TELEFONES ON TELEFONES.Id_Funcionarios=FUNCIONARIOS.Id;
